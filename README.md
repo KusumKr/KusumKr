@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kusum Kharayat</h1>
 <h3 align="center">A passionate Web Developer.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusumkr&label=Profile%20views&color=0e75b6&style=flat" alt="kusumkr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kusumkr" alt="kusumkr" /></a> </p>
