@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Kusum Kharayat</h1>
-<h3 align="center">A passionate Full stack Web Developer with a keen interest in technology & mindset for innovation.</h3>
+<h3 align="center">🌟A passionate Full stack Web Developer with a keen interest in technology & mindset for innovation🌟</h3>
 
 ![Coding Girl](https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif)
 
