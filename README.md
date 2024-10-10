@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋 I'm Kusum Kharayat</h1>
 <h3 align="center">🌟A passionate Full stack Web Developer with a keen interest in technology & mindset for innovation🌟</h3>
 
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=flat-square&logo=hacktoberfest)
+
 ![Coding Girl](https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusumkr&label=Profile%20views&color=0e75b6&style=flat" alt="kusumkr" /> </p>
