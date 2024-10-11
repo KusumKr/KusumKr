@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **I love reading novels**
 
+[![An image of @kusumkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kusumkr)](https://holopin.io/@kusumkr)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kusumkharayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kusumkharayat" height="30" width="40" /></a>
