@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Kusum Kharayat</h1>
-<h2 align="center">🌟A passionate Full Stack Web Developer with a keen interest in technology & a mindset for innovation🌟</h3>
+<h2 align="center">🌟A passionate Full Stack Developer with a keen interest in technology & a mindset for innovation🌟</h3>
 
 <p align="center"> <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl" /> </p> 
 
@@ -7,12 +7,12 @@
 
 ---
 
-###  About Me  
-- 🌱 Currently exploring **Web3 & Blockchain technologies**  
-- 👯 Looking to collaborate on **Web Development projects**  
-- 💬 Ask me about **Project Development & Collaboration on GitHub**  
-- 📫 Reach me at: **kusumkr2004@gmail.com**  
-- ⚡ Fun fact: **I love reading novels 📚**  
+### About Me
+- 🌱 Learning **AI/ML**   
+- 👯 Actively collaborating on **Web & Open-Source projects**  
+- 💬 Happy to discuss **project architecture, GitHub workflows & teamwork**  
+- 📫 Contact: **kusumkr2004@gmail.com**  
+- ⚡ Fun fact: A book lover who codes 📚💻
 
 ---
 
